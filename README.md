@@ -6,7 +6,7 @@ According to the marketing team, 70% of Kayak's users who are planning a trip wo
 Create an application that will recommend where people should plan their next holidays. The application should be based on real data about weather and hotels in the area.
 Furthermore, the application should be able to recommend the best destinations and hotels based on the above variables at any given time.
 
-## Mecollection to reach the goal
+## Methodology applied to reach the goal
 - Scrape data from destinations
 - Get weather data from each destination
 - Get hotels' info about each destination
