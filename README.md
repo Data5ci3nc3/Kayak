@@ -5,6 +5,8 @@ According to the marketing team, 70% of Kayak's users who are planning a trip wo
 ## Goal to be achieved
 Create an application that will recommend where people should plan their next holidays. The application should be based on real data about weather and hotels in the area.
 Furthermore, the application should be able to recommend the best destinations and hotels based on the above variables at any given time.
+
+## Note
 The interactive graphs cannot be rendered in the Jupyter notebook uploaded in this repository. All the interactive maps of this project are therefore hosted on the following mini website: https://www.mydatapassion.com/Kayak/Top_5_French.html
 
 ## Methodology applied to reach the goal
